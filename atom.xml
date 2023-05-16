@@ -3,11 +3,11 @@
   <title>TayCcc13‘s blog</title>
   
   <subtitle>subtitle!</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://tayccc13.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://tayccc13.github.io/"/>
   <updated>2023-05-16T02:55:52.338Z</updated>
-  <id>http://example.com/</id>
+  <id>https://tayccc13.github.io/</id>
   
   <author>
     <name>TayCcc</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Typora体验</title>
-    <link href="http://example.com/posts/ab427a07.html"/>
-    <id>http://example.com/posts/ab427a07.html</id>
+    <link href="https://tayccc13.github.io/posts/ab427a07.html"/>
+    <id>https://tayccc13.github.io/posts/ab427a07.html</id>
     <published>2023-05-05T12:14:26.000Z</published>
     <updated>2023-05-16T02:55:52.338Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="http://example.com/posts/b24dd347.html"/>
-    <id>http://example.com/posts/b24dd347.html</id>
+    <link href="https://tayccc13.github.io/posts/b24dd347.html"/>
+    <id>https://tayccc13.github.io/posts/b24dd347.html</id>
     <published>2023-05-04T14:11:26.000Z</published>
     <updated>2023-05-15T10:34:49.692Z</updated>
     
@@ -60,8 +60,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://tayccc13.github.io/posts/4a17b156.html"/>
+    <id>https://tayccc13.github.io/posts/4a17b156.html</id>
     <published>2023-05-04T14:02:28.948Z</published>
     <updated>2023-05-15T10:34:49.694Z</updated>
     
