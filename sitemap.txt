@@ -9,5 +9,3 @@ http://example.com/2023/05/05/Typora%E4%BD%93%E9%AA%8C/
 http://example.com/2024/01/15/hello-world/
 http://example.com/2023/05/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/
 http://example.com/
-http://example.com/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/
-http://example.com/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/

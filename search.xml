@@ -89,18 +89,6 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="【嵌入式】虚拟机Ubuntu环境配置"><a href="#【嵌入式】虚拟机Ubuntu环境配置" class="headerlink" title="【嵌入式】虚拟机Ubuntu环境配置"></a>【嵌入式】虚拟机Ubuntu环境配置</h1><h2 id="一键配置开发环境（此脚本只支持Ubuntu-16-04-Ubuntu-18-04）"><a href="#一键配置开发环境（此脚本只支持Ubuntu-16-04-Ubuntu-18-04）" class="headerlink" title="一键配置开发环境（此脚本只支持Ubuntu-16.04/Ubuntu-18.04）"></a>一键配置开发环境（此脚本只支持Ubuntu-16.04/Ubuntu-18.04）</h2><h3 id="在终端输入下面命令"><a href="#在终端输入下面命令" class="headerlink" title="在终端输入下面命令"></a>在终端输入下面命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">git clone https://e.coding.net/weidongshan/DevelopmentEnvConf.git</span><br><span class="line"></span><br><span class="line">cd DevelopmentEnvConf</span><br><span class="line"></span><br><span class="line">sudo ./Configuring_ubuntu.sh</span><br></pre></td></tr></table></figure><h2 id="报错信息"><a href="#报错信息" class="headerlink" title="报错信息"></a>报错信息</h2><div class="tip error"><p>E: Problem executing scripts APT::Update::Post-Invoke-Success ‘if /usr/bin/test -w /var/cache/app-info -a -e /usr/bin/appstreamcli; then appstreamcli refresh &gt; /dev/null; fi’<br>E: Sub-process returned an error code</p></div><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><div class="tip success"><p>sudo apt upgrade</p></div>]]></content>
       
       
-      <categories>
-          
-          <category> 嵌入式 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 嵌入式 </tag>
-            
-        </tags>
       
     </entry>
     
